@@ -51,7 +51,6 @@ Only work for release mode:
    - Project -> Properties -> C/C++ -> Code Generation -> Security Check (/GS): `Disabled (/GS-)`.
 4. Set subsystem:
    - Project -> Properties -> Linker -> System -> Subsystem: `Windows (/SUBSYSTEM:WINDOWS)`.
-   - 
 
 ### File Size Reduction
 
